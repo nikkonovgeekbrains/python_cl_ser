@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "phone",
+            "quantity": 2,
+            "price": 35000,
+            "buyer": "Nikolay",
+            "date": "10-11-2020"
+        },
+        {
+            "item": "notebook",
+            "quantity": 1,
+            "price": 155000,
+            "buyer": "Evgeny",
+            "date": "15-05-2021"
+        },
+        {
+            "item": "bike",
+            "quantity": 1,
+            "price": 230000,
+            "buyer": "Leonid",
+            "date": "20-07-2020"
+        }
+    ]
+}
