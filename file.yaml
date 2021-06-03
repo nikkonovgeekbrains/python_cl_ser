@@ -1,0 +1,10 @@
+data1:
+- data1.1
+- data1.2
+- data1.3
+- data1.4
+data2: 1234
+data3:
+  key3.1: €
+  key3.2: ⃤
+  key3.3: ß
